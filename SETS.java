@@ -1,4 +1,4 @@
-public class HashSet{
+public class SETS{
   public static void main(String[] args) {
 Set <Person>per=new HashSet<>();
    per.add(new Person(1, "Chanakya", 234, "Dev"));
